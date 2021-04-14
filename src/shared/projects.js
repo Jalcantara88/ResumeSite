@@ -28,7 +28,7 @@ export const PROJECTS = [
             },
 
         ],
-        description: "Site for a Lash Retail store",
+        description: "I made this entire site, Including branding, Logo Design, Photography, & Web design. It is an online retail store for flase Lashes.",
         link: "http://www.moltenlashes.com"
     },
     {
@@ -59,7 +59,7 @@ export const PROJECTS = [
                 name: 'CSS'
             }
         ],
-        description: "Website for a Beauty Salon with Storefront and Scheduling Features",
+        description: "Joomla website I made for existing Beauty Salon with Storefront and Scheduling Features. I also did photography for lash extension porducts.",
         link: "http://www.monaliza-beauty.com"
     },
     {
@@ -95,32 +95,32 @@ export const PROJECTS = [
                 name: 'ILLUSTRATOR'
             }
         ],
-        description: "My Personal Website with Git & YouTube API & Storefront",
+        description: "My Personal Website with Git & YouTube API & Storefront. I made every aspect of this website myself.",
         link: "http://www.deadheadstudio.com"
     },
     {
         id: 3,
-        name: "Project 4",
+        name: "React Restaurant Site",
         preview: "/assets/portfolio/previews/preview4.png",
         thumb: "/assets/portfolio/thumbs/thumb4.png",
         full: "/assets/portfolio/fulls/full1.png",
         skills: [
             {
                 id: 0,
-                name: 'HTML'
+                name: 'REACT'
             },
             
             {
                 id: 2,
-                name: 'BOOTSTRAP'
-            },
-            {
-                id: 3,
                 name: 'JAVASCRIPT'
             },
             {
+                id: 3,
+                name: 'REACTSTRAP'
+            },
+            {
                 id: 4,
-                name: 'CSS'
+                name: 'JSON'
             },
             {
                 id: 5,
@@ -128,10 +128,10 @@ export const PROJECTS = [
             },
             {
                 id: 6,
-                name: 'ILLUSTRATOR'
+                name: 'GITHUB'
             }
         ],
-        description: "this was made for yada yada",
+        description: "React project I made by myself as a template for a restaurant website with ability to leave a review & online ordering.",
         link: "url"
     },
     {
@@ -194,7 +194,7 @@ export const PROJECTS = [
                 name: 'PHOTOSHOP'
             }
         ],
-        description: "Portfolio Project for Front-End React Bootcamp from NuCamp",
+        description: "Portfolio Project I made alone for Front-End React-Native Bootcamp from NuCamp. This website but written for mobile. ",
         link: "https://snack.expo.io/@jalcantara88/react-native-portfolio"
     },
     {
@@ -230,7 +230,7 @@ export const PROJECTS = [
                 name: 'ILLUSTRATOR'
             }
         ],
-        description: "Branding for a YouTube Channel about Video Game Developing and Playing Indie Games",
+        description: "I did the Branding for a YouTube Channel about Video Game Developing and Playing Indie Games I made with a friend. I take care of all the visual assets & Video Editing on the channel.",
         link: "http://www.supergamebros.com" 
     },
     {
@@ -261,7 +261,7 @@ export const PROJECTS = [
                 name: 'AUDITION'
             }
         ],
-        description: "YouTube Channel Branding for a Couple of Coders Making Games",
+        description: "YouTube Channel Branding I made for for a Couple of Coders Making Games. I only designed their logo and video intro.",
         link: "https://www.youtube.com/channel/UCP9IYKbIvVqKTfEcvRDgLNw"
     }
 ];
