@@ -100,9 +100,9 @@ export const PROJECTS = [
     },
     {
         id: 3,
-        name: "React Restaurant Site",
-        preview: "/assets/portfolio/previews/preview4.png",
-        thumb: "/assets/portfolio/thumbs/thumb4.png",
+        name: "Chatter Box IO",
+        preview: "/assets/portfolio/previews/preview5.png",
+        thumb: "/assets/portfolio/thumbs/thumb5.png",
         full: "/assets/portfolio/fulls/full1.png",
         skills: [
             {
@@ -120,30 +120,30 @@ export const PROJECTS = [
             },
             {
                 id: 4,
-                name: 'JSON'
+                name: 'EXPRESS'
             },
             {
                 id: 5,
-                name: 'PHOTSHOP'
+                name: 'SOCKET.IO'
             },
             {
                 id: 6,
                 name: 'GITHUB'
             }
         ],
-        description: "React project I made by myself as a template for a restaurant website with ability to leave a review & online ordering.",
-        link: "url"
+        description: "Chatroom App project I made by myself for a Hackathon hosted by Mintbean.io",
+        link: "http://chatter-box-io.netlify.app/"
     },
     {
         id: 4,
-        name: "Project 5",
-        preview: "/assets/portfolio/previews/preview5.png",
-        thumb: "/assets/portfolio/thumbs/thumb5.png",
+        name: "Run & Gun",
+        preview: "/assets/portfolio/previews/preview6.png",
+        thumb: "/assets/portfolio/thumbs/thumb6.png",
         full: "/assets/portfolio/fulls/full1.png",
         skills: [
             {
                 id: 0,
-                name: 'HTML'
+                name: 'PHASERJS'
             },
             
             {
@@ -152,7 +152,7 @@ export const PROJECTS = [
             },
             {
                 id: 3,
-                name: 'JAVASCRIPT'
+                name: 'REACT'
             },
             {
                 id: 4,
@@ -164,12 +164,42 @@ export const PROJECTS = [
             },
             {
                 id: 6,
-                name: 'ILLUSTRATOR'
+                name: 'NETLIFY'
             }
         ],
-        description: "this was made for yada yada",
-        link: "url"
+        description: "Hackathon Winning side scrolling aciton game I made alone using PhaserJS",
+        link: "https://run-and-gun.netlify.app/"
     },
+    /*
+    {
+        id: 5,
+        name: "React Restaurant Site",
+        preview: "/assets/portfolio/previews/preview4.png",
+        thumb: "/assets/portfolio/thumbs/thumb4.png",
+        full: "/assets/portfolio/fulls/full9.png",
+        skills: [
+            {
+                id: 0,
+                name: 'REACT'
+            },
+            {
+                id: 1,
+                name: 'REACTSTRAP'
+            },
+            {
+                id: 2,
+                name: 'XD'
+            },
+            {
+                id: 3,
+                name: 'PHOTOSHOP'
+            }
+        ],
+        description: "Portfolio Project I made alone for Front-End React-Native Bootcamp from NuCamp. This website but written for mobile. ",
+        link: "https://snack.expo.io/@jalcantara88/react-native-portfolio"
+    },
+    */
+    /*
     {
         id: 5,
         name: "This Portfolio App",
@@ -197,6 +227,7 @@ export const PROJECTS = [
         description: "Portfolio Project I made alone for Front-End React-Native Bootcamp from NuCamp. This website but written for mobile. ",
         link: "https://snack.expo.io/@jalcantara88/react-native-portfolio"
     },
+    */
     {
         id: 6,
         name: "SuperGameBros",
